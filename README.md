@@ -299,12 +299,6 @@ Focused on building scalable, secure, and production-ready backend systems.
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ⭐ If You Found This Useful
 
 Feel free to fork, contribute, or star the repository.
